@@ -42,8 +42,8 @@ prep_pilot_ai/
     └── styles.qss
 Installation
 1. Clone Repository
-git clone https://github.com/yourusername/prep-pilot-ai.git
-cd prep-pilot-ai
+git clone https://github.com/yourusername/Solvix.git
+cd Solvix
 2. Create Virtual Environment
 python -m venv venv
 3. Activate Environment
