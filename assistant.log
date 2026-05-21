@@ -1,0 +1,36 @@
+2026-05-22 02:17:05,147 [INFO] [OCR] Engine initialized with sequential reading
+2026-05-22 02:17:05,155 [INFO] [AI] Gemini gemini-2.5-flash ready
+2026-05-22 02:17:10,017 [INFO] [UI] StealthWindow ready
+2026-05-22 02:17:10,023 [INFO] [OCR] Auto-capture started (2500ms)
+2026-05-22 02:17:15,956 [INFO] [MAIN] Hotkeys: toggle=ctrl+`, capture=ctrl+shift+c
+2026-05-22 02:17:15,988 [INFO] [ANTI-CAPTURE] Applied WDA_EXCLUDEFROMCAPTURE to HWND 2033758
+2026-05-22 02:17:15,990 [WARNING] [ANTI-FORENSIC] NtSetInfo returned 0x-3FFFFF9F
+2026-05-22 02:17:15,991 [INFO] [ANTI-FORENSIC] Window cloaked (HWND 2033758)
+2026-05-22 02:17:15,992 [INFO] [ANTI-FORENSIC] Stealth: 2/3 active
+2026-05-22 02:17:28,388 [INFO] [OCR] Extracted Q3 (1695 chars)
+2026-05-22 02:17:28,391 [INFO] [OCR] New question detected (1695 chars)
+2026-05-22 02:17:28,396 [INFO] [MAIN] Question detected (1695 chars): 2. Tf you still see odd behavior with cursor/scrolling on yo! resources ""“appen...
+2026-05-22 02:17:34,281 [INFO] [OCR] Extracted Q12 (323 chars)
+2026-05-22 02:17:34,284 [INFO] [OCR] New question detected (323 chars)
+2026-05-22 02:17:34,285 [INFO] [MAIN] Question detected (323 chars): 11. Siddharth and Murali go for jogging fram the same point. lurali proceeds tow...
+2026-05-22 02:17:38,914 [INFO] [OCR] Extracted Q12 (323 chars)
+2026-05-22 02:17:45,869 [INFO] [OCR] Extracted Q12 (418 chars)
+2026-05-22 02:17:45,878 [INFO] [OCR] New question detected (418 chars)
+2026-05-22 02:17:45,888 [INFO] [MAIN] Question detected (418 chars): 11. Siddharth and Murali go for jogging from the same point. Siddharth goes towa...
+2026-05-22 02:17:53,081 [INFO] [OCR] Extracted Q12 (418 chars)
+2026-05-22 02:18:00,679 [INFO] [OCR] Extracted Q12 (418 chars)
+2026-05-22 02:18:07,395 [INFO] [OCR] Extracted Q12 (418 chars)
+2026-05-22 02:18:13,416 [INFO] [OCR] Extracted Q12 (418 chars)
+2026-05-22 02:18:19,876 [INFO] [OCR] Extracted Q12 (418 chars)
+2026-05-22 02:18:23,088 [INFO] [OCR] Extracted Q0 (45 chars)
+2026-05-22 02:18:23,101 [INFO] [OCR] New question detected (45 chars)
+2026-05-22 02:18:23,120 [INFO] [MAIN] Question detected (45 chars): #21 Downloads - File Explorer = 4 New desktop...
+2026-05-22 02:18:36,898 [INFO] [OCR] Extracted Q3 (1845 chars)
+2026-05-22 02:18:36,909 [INFO] [OCR] New question detected (1845 chars)
+2026-05-22 02:18:36,915 [INFO] [MAIN] Question detected (1845 chars): 2. Tf you still see odd behavior with cursor/scrolling on yo! resources ""“appen...
+2026-05-22 02:19:07,745 [INFO] [OCR] Extracted Q11 (430 chars)
+2026-05-22 02:19:07,748 [INFO] [OCR] New question detected (430 chars)
+2026-05-22 02:19:07,749 [INFO] [MAIN] Question detected (430 chars): 10. Aman starts from a point ‘X’ and walks 3 kir cm. In which direction is he fr...
+2026-05-22 02:19:15,218 [INFO] [OCR] Extracted Q12 (421 chars)
+2026-05-22 02:19:15,224 [INFO] [OCR] New question detected (421 chars)
+2026-05-22 02:19:15,233 [INFO] [MAIN] Question detected (421 chars): 11. i go for jogging from the same point. Siddharth goes towards the east coveri...
