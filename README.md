@@ -253,8 +253,5 @@ MIT License
 
 <div align="center">
 
-### Built with ❤️ using Python, AI & PyQt6
-
-⭐ Star the repository if you like the project.
 
 </div>
